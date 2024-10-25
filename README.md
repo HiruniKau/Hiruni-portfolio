@@ -2,15 +2,15 @@
 
 Welcome to my portfolio! This website showcases my skills and projects as a UI/UX designer and front-end developer. It is built using modern web technologies to provide a smooth and engaging user experience.
 
-![Portfolio Screenshot](/screenshot.png)
+![Portfolio Screenshot](/public/screenshot.png)
 
 ## Technologies Used
 
-- **JavaScript** ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg): The backbone of my web applications, enabling dynamic content and interactivity.
-- **Global CSS** ![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/css3.svg): For consistent styling across the entire application, ensuring a cohesive look and feel.
-- **Framer Motion** ![Framer Motion](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/framer.svg): A powerful library for creating smooth animations and transitions, enhancing the overall user experience.
-- **React** ![React](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg): A JavaScript library for building user interfaces, allowing for the development of reusable UI components.
-- **React Icons** ![React Icons](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg): Easily integrates various icons into the project, adding visual appeal and improving usability.
+- **JavaScript** :The backbone of my web applications, enabling dynamic content and interactivity.
+- **Global CSS**  :For consistent styling across the entire application, ensuring a cohesive look and feel.
+- **Framer Motion** :A powerful library for creating smooth animations and transitions, enhancing the overall user experience.
+- **React** :A JavaScript library for building user interfaces, allowing for the development of reusable UI components.
+- **React Icons** :Easily integrates various icons into the project, adding visual appeal and improving usability.
 
 ## Features
 
