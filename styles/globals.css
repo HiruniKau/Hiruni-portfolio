@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+.body-bg {
+  /* background-color: #242424; */
+  background-color: #221a37;
+}
+.main-heading {
+  color: #a60ac7;
+}
+.constant-text{
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: 500 !important;
+}
+.nav-desktop {
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  right: 0;
+  transform: translate(-50%, -50%);
+}
+.nav-bg {
+  background-color: #a70ac738;
+}
+.mobile-nav-bg{
+  background-color: #76178e !important;
+}
+.type{
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 500 !important;
+}
+.input-border {
+  border: 1px solid #ffffffd6 !important;
+  background-color: transparent !important;
+}
+.input-border:active{
+  border: 1px solid #76178e !important;
+}
+.form-btn {
+  background-color: #a60ac7;
+}
+.hover-bg{
+  background: linear-gradient(transparent ,#76178ecb 95% );
+  transition: height 0.6s;
+  
+}
+
+.project-group:hover .project-card{
+  transform: scale(1.1);
+  transition: 0.6s;
+}
+.project-group:hover .hover-bg{
+  height: 17rem !important;
+}
+.services-bg{
+  background-color: #a70ac738;
+}
+
+
+.transition-two{
+  background-color: #a60ac7 !important;
+}
+.transition-one{
+  background-color: #221a37 !important;
+}
+.transition-three{
+  background-color:  #76178e !important;
+}
+.link-btn{
+    transform: translateY(-350%) !important;
+    
+}
+.list-border{
+  border-color: #a60ac7 !important;
+}
+.top-left-img{
+  left: -15%;
+  top: -13%;
+  opacity: .5;
+  
+}
+.modal-btn:hover{
+background-color: #a60ac7 !important;
+color: #fff;
+}
+.skills{
+  background-color: #a70ac770;
+}
+.div{
+  background-color: #76178e !important;
+}
+.group:hover .div{
+  transform: scale(8) !important;
+  transition: 2s;
+z-index: -20 !important;
+}
+.services-icon{
+  background-color: #a60ac7 !important;
+}
+.icons-text{
+    left: -150%;
+    margin-top: -7px;
+    display: none;
+}
+.icon-hover:hover {
+    color: #a60ac7 !important;    
+  }
+ 
+  .icon-hover:hover .icon-text{
+      color: red !important;
+    opacity: 1 !important;
+  }
