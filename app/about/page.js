@@ -25,7 +25,7 @@ const About = () => {
   return (
     <>
 
-<Image className="absolute hidden md:block right-0 bottom-0 mix-blend-screen " src={"/pattern.jpg"} width={"400"} height={"400"} />
+<Image className="absolute hidden md:block right-0 bottom-0 mix-blend-screen " src={"./pattern.jpg"} width={"400"} height={"400"} />
 
       <PageTransition />
       <div className='container mx-auto mt-20  xl:mt-0  xl:h-screen px-5  h-max-content xl:pe-10 xl:flex xl:flex-col xl:justify-center align-middle  '>
