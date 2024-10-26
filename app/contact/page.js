@@ -11,7 +11,7 @@ const Contact = () => {
   return (
     <>
 
-<Image className="absolute right-0 bottom-0 mix-blend-screen " src={"/pattern.jpg"} width={"500"} height={"500"} />
+<Image className="absolute right-0 bottom-0 mix-blend-screen " src={"./pattern.jpg"} width={"500"} height={"500"} />
 
     <PageTransition />
       <div className='container mx-auto h-screen flex justify-center xl:px-0 px-5 align-middle'>
