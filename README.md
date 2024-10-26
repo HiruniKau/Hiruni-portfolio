@@ -4,6 +4,7 @@
 
 ![Portfolio Screenshot](/public/screenshot.png)
 
+<br>
 
 ## 🚀 Technologies Used
 
@@ -12,16 +13,14 @@
 - **✨ Framer Motion** :A powerful library for creating smooth animations and transitions, enhancing the overall user experience.
 - **⚛️ React** :A JavaScript library for building user interfaces, allowing for the development of reusable UI components.
 - **🖼️ React Icons** :Easily integrates various icons into the project, adding visual appeal and improving usability.
-
-
+<br>
 
 ## 🌐 Features
 
 - **📱 Responsive Design**: Optimized for all devices, ensuring a seamless experience on mobile and desktop.
 - **🎬 Interactive Animations**: Engaging animations using Framer Motion that bring the portfolio to life.
 - **🧭 Easy Navigation**: Intuitive navigation linking to different sections, including Home, About, Projects, and Contact.
-
-
+<br>
 
 ## 📖 Getting Started
 
