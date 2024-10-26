@@ -4,6 +4,7 @@
 
 ![Portfolio Screenshot](/public/screenshot.png)
 
+
 ## 🚀 Technologies Used
 
 - **💻 JavaScript** :The backbone of my web applications, enabling dynamic content and interactivity.
@@ -12,11 +13,15 @@
 - **⚛️ React** :A JavaScript library for building user interfaces, allowing for the development of reusable UI components.
 - **🖼️ React Icons** :Easily integrates various icons into the project, adding visual appeal and improving usability.
 
+
+
 ## 🌐 Features
 
 - **📱 Responsive Design**: Optimized for all devices, ensuring a seamless experience on mobile and desktop.
 - **🎬 Interactive Animations**: Engaging animations using Framer Motion that bring the portfolio to life.
 - **🧭 Easy Navigation**: Intuitive navigation linking to different sections, including Home, About, Projects, and Contact.
+
+
 
 ## 📖 Getting Started
 
@@ -27,7 +32,7 @@ To view my portfolio, simply clone the repository and run it locally:
    git clone https://github.com/HiruniKau/Hiruni-portfolio.git
 2. Navigate to the project directory 🗂️:
     ```bash
-    cd your-portfolio
+    cd Hiruni-portfolio
 3. Install the dependencies 📦:
     ```bash
     npm install
