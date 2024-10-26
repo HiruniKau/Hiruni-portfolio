@@ -19,7 +19,7 @@ const Project = () => {
       title: "Movie Explorer Application",
       repoLink: "https://github.com/FHSS-USJ/assignment-02-HiruniKau.git",
       liveLink: "",
-      imgSrc: "/public/movie.png",
+      imgSrc: "./movie.png",
       delay: 0.6,
       link: "",
       skills: [
@@ -36,7 +36,7 @@ const Project = () => {
       title: "We@FHSS App - Color Rechange",
       repoLink: "",
       liveLink: "https://www.figma.com/design/KpAJqJ6NO968pUguD0pAji/We%40fhss-App-Color-Rechange?node-id=0-1&t=EwS3NhXuaYnbvn8X-1",
-      imgSrc: "/public/fhss.png",
+      imgSrc: "./fhss.png",
       delay: 0.8,
       link: "",
       skills: ["uiux design", "Color Theory", "User-Centric Design", "Figma"],
@@ -44,7 +44,7 @@ const Project = () => {
     },
     {
       title: "Travelidea Travel Booking App",
-      imgSrc: "/public/travel.png",
+      imgSrc: "./travel.png",
       repoLink: "",
       liveLink: "https://www.figma.com/design/zyF6Xy4XpC8J8tGzeG12SK/Travel-Booking-App?node-id=262-65&t=AKzxozryX4RUcHLZ-1",
       delay: 0.9,
