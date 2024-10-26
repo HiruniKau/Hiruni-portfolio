@@ -4,7 +4,6 @@
 
 ![Portfolio Screenshot](/public/screenshot.png)
 
-<br>
 
 ## 🚀 Technologies Used
 
