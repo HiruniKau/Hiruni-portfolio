@@ -12,7 +12,7 @@ const Services = () => {
     <>
       <Image
         className='absolute hidden md:block right-0 bottom-0 mix-blend-screen '
-        src={"/public/pattern.jpg"}
+        src={"./pattern.jpg"}
         width={"400"}
         height={"400"}
       />
@@ -47,7 +47,7 @@ const Services = () => {
                 className='shadow rounded '
                 width={"600"}
                 height={"600"}
-                src={"/public/coding 2.png"}
+                src={"./coding 2.png"}
                 alt='no'
               />
             </div>
