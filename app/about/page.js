@@ -40,7 +40,7 @@ const About = () => {
               className='shadow rounded mx-auto  xl:block mt-0 sm:mt-4  sm:mx-auto order-2 xl:order-1'
               width={"600"}
               height={"600"}
-              src='/coding 2.png'
+              src='./coding 2.png'
               alt='no'
             />
           </motion.div>
