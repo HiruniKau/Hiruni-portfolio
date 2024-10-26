@@ -19,7 +19,7 @@ export default function Home() {
           <LeftSection />
 
           {/* right side */}
-          <RightImg src='/public/profile.png'/>
+          <RightImg src='/profile.png'/>
         </div>
       </div>
 
